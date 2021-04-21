@@ -1,7 +1,30 @@
+<!DOCTYPE html>
+<html>
 <head>
+  <title>Contoh Internal CSS</title>
+  <!-- penulisan internal css dalam tag head -->
   <style type="text/css">
-    p {color:white; font-size: 10px;}
-    .center {display: block; margin: 0 auto;}
-    #button-go, #button-back {border: solid 1px black;}
+    p{
+      font-family: serif;
+      line-height: 1.75em;
+      font-size: 18px;
+    }
+    i { 
+      font-family: sans;
+      color: green;
+    }
   </style>
 </head>
+
+<body>
+  <!-- penulisan internal css dalam tag body -->
+  <style type="text/css">
+    h2 { 
+      font-family: sans;
+      color: #333;
+    }
+  </style>
+  <h2>Ini judul artikel sebagai contoh Internal CSS</h2>
+  <p>Ini sebagai deskripsi contoh <i>Internal CSS</i>.</p>
+</body>
+</html>
