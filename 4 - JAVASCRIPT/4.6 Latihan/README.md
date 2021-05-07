@@ -16,6 +16,7 @@ Bil 1 dan Bil 2 merupakan text box, dapat diisi angka, bila tombol + atau – at
 ditekan, maka akan keluar bilangan pada text box hasil, dimana bilangan ini merupakan operasi
 arithmetic sesuai dengan tombol yang ditekan.
 
+    Syarat silakan di write (kehidden)
     <SCRIPT LANGUAGE = “JavaScript”>
     <!–
     document.write(“Dimodifikasi terakhir pada ” +
