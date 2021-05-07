@@ -15,6 +15,7 @@ menggunakan javascript. Contoh tampilan :
 Bil 1 dan Bil 2 merupakan text box, dapat diisi angka, bila tombol + atau – atau x atau /
 ditekan, maka akan keluar bilangan pada text box hasil, dimana bilangan ini merupakan operasi
 arithmetic sesuai dengan tombol yang ditekan.
+    /*
     <SCRIPT LANGUAGE = “JavaScript”>
     <!–
     document.write(“Dimodifikasi terakhir pada ” +
@@ -22,3 +23,4 @@ arithmetic sesuai dengan tombol yang ditekan.
     //–> </SCRIPT>
     </BODY>
     </HTML>
+    */
