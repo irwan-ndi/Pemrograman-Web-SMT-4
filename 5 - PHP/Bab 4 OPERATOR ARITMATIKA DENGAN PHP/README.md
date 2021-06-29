@@ -49,7 +49,8 @@ $a % $b | Mod / Sisa hasil bagi | Sisa dari pembagian $a/$b
 	$b = $_POST['b'];
 	$hasil = $a + $b;
 	
-	echo "Nilai a : $a<br>
+	echo "
+	Nilai a : $a<br>
 	Nilai b : $b<br>
 	Hasil Penjumlahan $a + $b = $hasil";
 	?>
