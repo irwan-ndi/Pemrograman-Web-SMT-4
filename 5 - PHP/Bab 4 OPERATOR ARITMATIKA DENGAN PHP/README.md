@@ -19,6 +19,7 @@ $a % $b | Mod / Sisa hasil bagi | Sisa dari pembagian $a/$b
 	$hasil3 = $a * $b; // Perkalian
 	$hasil4 = $a / $b; // Pembagian
 	$hasil5 = $a % $b; // Modulus
+	
 	echo "Nilai a : $a<br>
 	Nilai b : $b <br>
 	Hasil penjumlahan $a + $b = $hasil1<br>
@@ -35,7 +36,7 @@ $a % $b | Mod / Sisa hasil bagi | Sisa dari pembagian $a/$b
 	<form method="POST" action="hasil.php">
 		Nilai a : <input type="text" name="a"><br><br>
 		Nilai b : <input type="text" name="b"><br><br>
-	<input type="submit" value="Jumlahkan">
+		<input type="submit" value="Jumlahkan">
 	</form>
 	```
 
@@ -46,6 +47,7 @@ $a % $b | Mod / Sisa hasil bagi | Sisa dari pembagian $a/$b
 	$a = $_POST['a'];
 	$b = $_POST['b'];
 	$hasil = $a + $b;
+	
 	echo "Nilai a : $a<br>
 	Nilai b : $b<br>
 	Hasil Penjumlahan $a + $b = $hasil";
