@@ -1,3 +1,5 @@
+# Bab 4 OPERATOR ARITMATIKA DENGAN PHP
+
 Dalam mempelajari bahasa pemrograman dasar, Kita selalu dihadapkan dengan
 istilah operator aritmatika. Operator Aritmatika adalah operator matematis yang
 terdiri dari operator penambahan, pengurangan, perkalian, pembagian, modulus,
@@ -5,7 +7,7 @@ plus, dan minus.
 Dan pada tutorial kali ini, saya akan memberikan contoh latihan operator aritmatika
 dengan menggunakan bahasa pemrograman PHP.
 
-Jenis Operator Aritmatika dalam PHP
+##Jenis Operator Aritmatika dalam PHP
 ---
 $a + $b Penambahan Total dari $a dan $b
 
